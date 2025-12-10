@@ -15,7 +15,7 @@ Add your bio and professional background here.
 
 List your projects and achievements.
 
-- [Dec 2025 longevity routine](dec-2025-longevity-routine.md)
+- [Dec 2025 longevity routine](dec-2025-longevity-routine)
 
 ## Contact
 

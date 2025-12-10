@@ -6,10 +6,9 @@
 
 ## 📋 About
 
-This repository hosts a GitHub Pages site that serves as a professional portfolio and research hub. The site includes:
+This repository hosts a GitHub Pages site. The site includes:
 
-- Research interests and publications
-- Professional experience and education
+- Open-Sourced longevity protocol
 - Projects and technical work
 - Contact information
 
@@ -20,11 +19,10 @@ This work is dedicated to the public domain under [CC0 1.0 Universal (CC0 1.0) P
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-**No Rights Reserved**
 
 The person who associated a work with this deed has dedicated the work to the public domain by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
 You can:
 - **Copy, modify, distribute** and perform the work, even for commercial purposes
 - **Use the work without asking permission**
-- **No attribution required** (though attribution is appreciated)
+- **Attribution optional**

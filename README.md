@@ -23,4 +23,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 You are free to:
 - **Share** — copy and redistribute the material in any medium or format
 - **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
-- **Attribute** — You can credit this routine or provide a link tif desired
+- **Attribute** — You can credit this routine or provide a link if desired

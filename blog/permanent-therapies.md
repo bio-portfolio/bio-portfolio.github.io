@@ -15,7 +15,7 @@ title: Permanent Therapies and Tests
 - **Site:** Left DLPFC
 - **Motor threshold:** 49
 - **Protocol:** Standard (120% MT) at 18 Hz, 55 trains, 1980 pulses
-- **Boost:** 10 sessions of Theta-Burst-Stimulation (80% MT) at 50/5 Hz, 20 trains, 600 pulses
+- **Theta Waves:** 10 sessions of Theta-Burst-Stimulation (80% MT) at 50/5 Hz, 20 trains, 600 pulses
 
 ### Accutane
 **Outcome:** Permanently reduced skin acne by ~80%
@@ -37,8 +37,9 @@ title: Permanent Therapies and Tests
 - **International travel vaccines:** Immunized for most travel-related infectious diseases and several vaccines approved only internationally
 
 ### Blood Tests
-**Most Recent Results:**
+**Notable Results:**
 - **Blood pressure:** 115/70
+- **Creatinine:** Often elevated due to creatine supplementation
 - **LDL cholesterol:** Often elevated (80-120 mg/dL) where optimal is <70 mg/dL
-- **Kidney function:** Normal
+- **Kidney function:** Otherwise Normal
 - **Liver function:** Normal

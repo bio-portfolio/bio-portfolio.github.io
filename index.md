@@ -16,10 +16,7 @@ This is a personal portfolio website showcasing my work and interests.
 ## Projects
 
 
-- [Current Routine](current-routine)
-- [Archived Routines](archived-routines)
-- [Permanent Therapies](permanent-therapies)
-
-- [2025-12 Routine](blog/2025-12-routine)
-
+- [Current Routine][Current Routine](blog/current-routine)
+- [Archived Routines][Archived Routines](blog/archived-routines)
+- [Permanent Therapies][Permanent Therapies](blog/permanent-therapies)
 

@@ -15,7 +15,7 @@ Add your bio and professional background here.
 
 List your projects and achievements.
 
-- [2025-12 Routine](2025-12 Routine)
+- [2025-12 Routine](blog/2025-12-routine)
 
 ## Contact
 

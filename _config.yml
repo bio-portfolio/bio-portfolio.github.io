@@ -1,0 +1,19 @@
+# Site settings
+title: Bio Portfolio Blog
+description: Research notes on longevity, biohacking, and pharmaceutical optimization
+author: bio-portfolio
+
+# Theme
+theme: minima
+
+# Minima date format
+minima:
+  date_format: "%b %-d, %Y"
+
+# Build settings
+markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

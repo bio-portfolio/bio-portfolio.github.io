@@ -25,4 +25,4 @@ The person who associated a work with this deed has dedicated the work to the pu
 You can:
 - **Copy, modify, distribute** and perform the work, even for commercial purposes
 - **Use the work without asking permission**
-- **Attribution Appreciated, Not Required**
+- **Attribution Optional and Appreciated**

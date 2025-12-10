@@ -23,3 +23,22 @@ title: Permanent Therapies and Tests
 - **Dose:** 20 mg/day oral isotretinoin, tapered up to 60mg/day after 3 months
 
 ### Genetic Tests
+
+**Privacy Note:** For privacy and security reasons, genetic information is not directly disclosed.
+
+- **Carrier and Rare Genetic Disease Screening:** Evaluated 500+ rare conditions to see what is autosomal recessive "carrier"
+- **Psychotropic Medicine Genetic Screening:** Evaluates compatibility with hundreds of psychotropic medicines based on metabolization and genetic interactions
+- **Geneaology DNA Test:** Lists regions of the world that your ancestors came from
+
+### Completed Vaccinations
+**Status:** Up to date with CDC schedule
+
+- **Flu and COVID vaccines:** Receive annual flu and covid vaccines, choosing protein-based options
+- **International travel vaccines:** Immunized for most travel-related infectious diseases and several vaccines approved only internationally
+
+### Blood Tests
+**Most Recent Results:**
+- **Blood pressure:** 115/70
+- **LDL cholesterol:** Often elevated (80-120 mg/dL) where optimal is <70 mg/dL
+- **Kidney function:** Normal
+- **Liver function:** Normal

@@ -1,7 +1,7 @@
 # Site settings
-title: Bio Portfolio Blog
-description: Research notes on longevity, biohacking, and pharmaceutical optimization
-author: bio-portfolio
+title: Ben's Bio Portfolio
+description: Blog detailing an Open-Sourced longevity routine, research notes, and other news
+#author: bio-portfolio
 
 # Theme
 theme: minima

@@ -16,7 +16,7 @@ This is a personal portfolio website showcasing my work and interests.
 ## Projects
 
 
-- [Current Routine][Current Routine](blog/current-routine)
-- [Archived Routines][Archived Routines](blog/archived-routines)
-- [Permanent Therapies][Permanent Therapies](blog/permanent-therapies)
+- [Current Longveity Routine](blog/current-routine)
+- [Archived Daily Routines](blog/archived-routines)
+- [Permanent Therapies & Genetic Profile](blog/permanent-therapies)
 

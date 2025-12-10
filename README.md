@@ -16,11 +16,15 @@ This repository hosts a GitHub Pages site that serves as a professional portfoli
 
 ## 📄 License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is dedicated to the public domain under [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
-[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
-- **Attribute** — You can credit this routine or provide a link if desired
+**No Rights Reserved**
+
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+
+You can:
+- **Copy, modify, distribute** and perform the work, even for commercial purposes
+- **Use the work without asking permission**
+- **No attribution required** (though attribution is appreciated)

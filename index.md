@@ -3,20 +3,20 @@ layout: default
 title: Bio Portfolio
 ---
 
-# Welcome to My Portfolio
+# About Me
 
 This is a personal portfolio website showcasing my work and interests.
 
-## About Me
+# Contact
 
-Add your bio and professional background here.
+
+- LinkedIn: [www.linkedin.com/in/ben-profile](https://www.linkedin.com/in/ben-profile)
+- Email: [ben.career@gmx.com](mailto:ben.career@gmx.com)
 
 ## Projects
 
-List your projects and achievements.
+
 
 - [2025-12 Routine](blog/2025-12-routine)
 
-## Contact
 
-How to get in touch with you.

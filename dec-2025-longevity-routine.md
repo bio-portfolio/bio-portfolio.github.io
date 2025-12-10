@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dec 2025 Longevity Routine
+title: 2025-12 Routine
 ---
 
 # Dec 2025 Longevity Routine

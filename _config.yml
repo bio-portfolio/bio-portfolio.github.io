@@ -9,7 +9,7 @@ theme: minima
 # Minima date format
 minima:
   date_format: "%b %-d, %Y"
-    header_pages: []
+  header_pages: []
 
 # Build settings
 markdown: kramdown

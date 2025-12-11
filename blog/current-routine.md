@@ -4,9 +4,16 @@ title: Current Routine
 ---
 
 # Routine Notes
-Longevity medicine is frontier science and experimental. Consult with a medical professional about your own healthcare.
+Longevity medicine is experimental and frontier science, consult with a medical professional about your own health goals.
 
 ## Longevity Routine, Updated 12-2025
+I have run a longevity routine for ten years, taking it seriously for the past five years. I am Open-Sourcing my protocol by popular demand.
+
+### Goals
+- Maintain the energy and vitality of my 20s for the next 20 years
+- Achieve a pleasant physique
+- Remain free of chronic disease
+- Maintain a full head of hair, youthful skin, and healthy teeth
 
 ### Daily Medication & Supplements
 In the morning, I take these medications from a pill planner.
@@ -57,8 +64,14 @@ In the morning, I take these medications from a pill planner.
 - Serum of topical Dutasteride (Rx) + Minoxidil, applied 1-2x weekly to crown and temple
 - 1% Ketoconazole shampoo
 
+### Teeth
+- Occasional use of whitening strips
+- Occasional use of mouthwash
+- Brush teeth with electric toothbrush
+- Tongue scraper
+
 ### Peptides
-- Microdose semaglutide if weight rises
+- Occasional Microdosing of semaglutide
 - Several peptides on wishlist
  
 ### Therapeutic Wishlist

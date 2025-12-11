@@ -38,7 +38,7 @@ title: Permanent Therapies and Tests
 ### Genetic Tests
 **Privacy Note:** For privacy and security reasons, genetic information is not directly disclosed.
 
-- **Carrier and Rare Genetic Disease Screening:** Evaluated 500+ rare conditions to see what is autosomal recessive "carrier"
+- **Carrier and Rare Genetic Disease Screening:** Evaluated 500+ rare conditions to determine autosomal recessive carrier conditions.
 - **Psychotropic Medicine Genetic Screening:** Evaluates compatibility with hundreds of psychotropic medicines based on metabolization and genetic interactions
 - **Geneaology DNA Test:** Lists regions of the world that your ancestors came from
 

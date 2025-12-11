@@ -29,8 +29,13 @@ title: Permanent Therapies and Tests
 - **Treatment course:** 9 months (2017-2018)
 - **Dose:** 20 mg/day oral isotretinoin, tapered up to 60mg/day after 3 months
 
-### Genetic Tests
+### Semaglutide
+**Outcome:** Permanently reduced set-point bodyfat percentage by ~20%, from 15% to 12%
+- **Treatment course:** 12 months (2023-2024)
+- **Dose:** Weekly injection of microdose quantity between 0.25mg - 1mg
+- **Future Protocol:** Consider restarting for cosmetic reasons or to further lower fat mass.
 
+### Genetic Tests
 **Privacy Note:** For privacy and security reasons, genetic information is not directly disclosed.
 
 - **Carrier and Rare Genetic Disease Screening:** Evaluated 500+ rare conditions to see what is autosomal recessive "carrier"

@@ -52,9 +52,9 @@ title: Permanent Therapies and Tests
 **Notable Results:**
 - **Blood pressure:** 115/70
 - **Creatinine:** Often elevated due to creatine supplementation
-- **LDL cholesterol:** Often elevated (80-120 mg/dL) where optimal is <70 mg/dL
+- **LDL cholesterol:** Often elevated (80-120 mg/dL) due to genetic conditions where optimal is <70 mg/dL
 - **Kidney function:** Otherwise Normal
 - **Liver function:** Normal
 
-### Tests Wishlist
+### Biomarkers & Tests Wishlist
 - **DunedinPACE:** Measure rate of epigenetic aging, where a score of 1.0 is population average.

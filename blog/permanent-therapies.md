@@ -52,4 +52,4 @@ title: Permanent Therapies and Tests
 - **Liver function:** Normal
 
 ### Tests Wishlist
-- **DunedinPACE:** Measure rate of epigenetic aging, where 1 is population average, and 0.5 is record slowest
+- **DunedinPACE:** Measure rate of epigenetic aging, where a score of 1.0 is population average.

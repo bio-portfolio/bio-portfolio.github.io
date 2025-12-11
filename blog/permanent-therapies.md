@@ -17,6 +17,13 @@ title: Permanent Therapies and Tests
 - **Protocol:** Standard (120% MT) at 18 Hz, 55 trains, 1980 pulses
 - **Theta Waves:** 10 sessions of Theta-Burst-Stimulation (80% MT) at 50/5 Hz, 20 trains, 600 pulses
 
+### Rapamycin
+**Outcome:** Studies show biomarker improvement in model organisms of a temporary therapy, however.
+- **Treatment course:** 1 year (2023-2024)
+- **Dose:** 2 schedules tested. (1) 6mg Sirolimus once weekly. (2) 1mg Sirolimus for 2 days, 0mg for third day.
+- **Discontinuation:** Rapamycin was discontinued due to high cost, unusual side effects, limited medicine access, and inability to measure biomarkers closely enough.
+- **Side Effects:** Slowed nail growth, slowed hair growth, increased acne. No persistent side effects after stopping treatment.
+
 ### Accutane
 **Outcome:** Permanently reduced skin acne by ~80%
 - **Treatment course:** 9 months (2017-2018)
@@ -43,3 +50,6 @@ title: Permanent Therapies and Tests
 - **LDL cholesterol:** Often elevated (80-120 mg/dL) where optimal is <70 mg/dL
 - **Kidney function:** Otherwise Normal
 - **Liver function:** Normal
+
+### Future Tests
+- **DunedinPACE:** Measure rate of epigenetic aging, where 1 is population average, and 0.5 is record slowest

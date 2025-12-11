@@ -7,11 +7,6 @@ title: Bio Portfolio
 
 This is a personal portfolio website showcasing my work and interests.
 
-# Contact
-
-
-- LinkedIn: [www.linkedin.com/in/ben-profile](https://www.linkedin.com/in/ben-profile)
-- Email: [ben.career@gmx.com](mailto:ben.career@gmx.com)
 
 ## Projects
 
@@ -20,3 +15,9 @@ This is a personal portfolio website showcasing my work and interests.
 - [Archived Daily Routines](blog/archived-routines)
 - [Permanent Therapies & Genetic Profile](blog/permanent-therapies)
 
+
+# Contact
+
+
+- LinkedIn: [www.linkedin.com/in/ben-profile](https://www.linkedin.com/in/ben-profile)
+- Email: [ben.career@gmx.com](mailto:ben.career@gmx.com)

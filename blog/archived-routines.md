@@ -10,3 +10,6 @@ This page contains historical daily longevity routines and protocols that have b
 ## Archive
 
 
+### Discontinued Medicines
+- Sirolimus Rx
+- Resveratrol supplement

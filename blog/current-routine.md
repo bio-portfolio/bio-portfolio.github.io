@@ -8,7 +8,8 @@ Longevity medicine is frontier science and experimental. Consult with a medical 
 
 ## Longevity Routine, Updated 12-2025
 
-### Daily Medication Supplements
+### Daily Medication & Supplements
+In the morning, I take these medications from a pill planner.
 - (Rx) Metformin ER 1000mg
 - (Rx) Dapagliflozin 5mg
 - (Rx) Valacyclovir 500mg
@@ -36,7 +37,7 @@ Longevity medicine is frontier science and experimental. Consult with a medical 
 - Generally high-protein, low-carb
 - 0 alcohol
 - Generally try to achieve slight calorie deficit
-- Measure body composition with smart scale
+- Occasionally, I measure my composition with smart scale
 
 ### Sleep
 - ~8 hrs per night

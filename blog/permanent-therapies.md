@@ -18,11 +18,11 @@ title: Permanent Therapies and Tests
 - **Theta Waves:** 10 sessions of Theta-Burst-Stimulation (80% MT) at 50/5 Hz, 20 trains, 600 pulses
 
 ### Rapamycin
-**Outcome:** Studies show biomarker improvement in model organisms of a temporary therapy, however.
+**Outcome:** Studies show longevity benefits in model organisms after a temporary course of Rapamycin.
 - **Treatment course:** 1 year (2023-2024)
 - **Dose:** 2 schedules tested. (1) 6mg Sirolimus once weekly. (2) 1mg Sirolimus for 2 days, 0mg for third day.
-- **Discontinuation:** Rapamycin was discontinued due to high cost, unusual side effects, limited medicine access, and inability to measure biomarkers closely enough.
-- **Side Effects:** Slowed nail growth, slowed hair growth, increased acne. No persistent side effects after stopping treatment.
+- **Discontinuation:** Rapamycin was discontinued due to high cost, unusual side effects, limited medicine access, and inability to closely measure biomarkers.
+- **Side Effects:** Slowed nail growth, slowed hair growth, increased acne, all ceased after stopping treatment.
 
 ### Accutane
 **Outcome:** Permanently reduced skin acne by ~80%

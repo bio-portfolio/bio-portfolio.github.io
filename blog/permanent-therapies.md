@@ -51,5 +51,5 @@ title: Permanent Therapies and Tests
 - **Kidney function:** Otherwise Normal
 - **Liver function:** Normal
 
-### Future Tests
+### Tests Wishlist
 - **DunedinPACE:** Measure rate of epigenetic aging, where 1 is population average, and 0.5 is record slowest

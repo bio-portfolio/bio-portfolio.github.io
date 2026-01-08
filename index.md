@@ -20,4 +20,3 @@ This is a personal portfolio website showcasing my work and interests.
 
 
 - LinkedIn: [www.linkedin.com/in/ben-profile](https://www.linkedin.com/in/ben-profile)
-- Email: [ben.career@gmx.com](mailto:ben.career@gmx.com)

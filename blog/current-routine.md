@@ -14,7 +14,13 @@ Longevity medicine is experimental and frontier science, consult with a medical 
 - Remain free of chronic disease
 
 ### Prescriptions
-The goal is insurance coverage for medications, using them off-label for helath extension and longevity. Try seeking referrals to specialists in related fields. For example, SGLT2 inhibitors are approved for diabetes, but have demonstrated heart and circulatory health benefits. Instead of a PCP or endocrinologist, talk to a cardiologist or rheumatologist and present the evidence-based studies, with a stated indication of family history or blood metrics.
+The goal is insurance coverage for medications, using a patient's own doctor and health system. Many medications are used off-label, especially true for longevity. Try seeking referrals to specialists in related fields. For example, say a patient desires to start an SGLT2 inhibitor. Instead of seeing a PCP or endocrinologist, refer to a cardiologist or rheumatologist. Present the studies of SGLT2 inhibitors for preventing heart failure or helping the circulatory system. The specialist's office can indicate the medication for this use and, if required, assist with a prior authorization. After months of use, your PCP then may be comfortable with managing the medication.
+
+
+
+
+
+
 
 ### Daily Medication & Supplements
 In the morning, I take these medications from a pill planner.

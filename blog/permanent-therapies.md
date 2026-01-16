@@ -35,6 +35,11 @@ title: Permanent Therapies and Tests
 - **Dose:** Weekly injection of microdose quantity between 0.25mg - 1mg
 - **Future Protocol:** Consider restarting for cosmetic reasons or to further lower fat mass.
 
+### Hyperhidrosis Treatment
+**Outcome** Permanently reduced sweating in treated areas by 50-80%
+- 12% Aluminum chloride liquid deodorant, applied as needed in excessive heat
+- Botulinum Toxin injections in underarms and sole of feet, 2 courses over 1 year
+
 ### Genetic Tests
 **Privacy Note:** For privacy and security reasons, genetic information is not directly disclosed.
 
@@ -43,7 +48,7 @@ title: Permanent Therapies and Tests
 - **Geneaology DNA Test:** Lists regions of the world that your ancestors came from
 
 ### Completed Vaccinations
-**Status:** Up to date with CDC schedule
+**Status:** Up to date
 
 - **Flu and COVID vaccines:** Receive annual flu and covid vaccines, choosing protein-based options
 - **International travel vaccines:** Immunized for most travel-related infectious diseases and several vaccines approved only internationally

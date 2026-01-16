@@ -24,18 +24,19 @@ In the morning, I take these medications from a pill planner.
 - (Rx) Emtricitabine + Tenofovir Alafenamide, antiviral preventing infection of Hepatitis and others
 - (Rx) Valacyclovir 500mg, preventative antiviral for reduced neuroinflammation
 - (Rx) Candesartan 8mg, for heart and circulatory health
+- Creatine 5g
+- Multivitamin with ~25 macronutrients
 - Piracetam 1g
-- Nicotinamide Riboside (NR) 500mg
-- Astaxanthin 12mg
-- N-Acetyl Cysteine (NAC) 600mg
 - Calcium alpha-ketoglutarate (Ca-AKG) 1g
 - Glucosamine 1g
-- Creatine 5g
 - Taurine 1g
 - Glycine 1g
+- Omega-3 Fish Oil ~1g
+- N-Acetyl Cysteine (NAC) 600mg
+- Nicotinamide Riboside (NR) 500mg
 - Cat's Claw 500mg
-- Multivitamin with ~25 macronutrients
-- Fish Oil ~1g
+- Astaxanthin 12mg
+- 4-Azaoctamethylenediamine 10mg
 
 ### Exercise
 - Daily bodyweight workout
@@ -68,7 +69,7 @@ In the morning, I take these medications from a pill planner.
 - Mixture of 0.1% Retinol (Rx) + moisturizer, applied nightly to face, neck, and hands
 
 ### Haircare
-- Serum of topical Dutasteride (Rx) + Minoxidil, applied 1-2x weekly to crown and temple
+- Serum of topical Dutasteride (Rx) + Minoxidil, for male alopecia, applied 1-2x weekly to crown and temple
 - 1% Ketoconazole shampoo
 
 ### Teeth
@@ -78,7 +79,7 @@ In the morning, I take these medications from a pill planner.
 - Tongue scraper
 
 ### Peptides
-- Occasional Microdosing of semaglutide, 0.25mg-0.5mg per week
+- Occasional microdosing of semaglutide, 0.25mg-0.5mg per week
 - Occasionally, 2mg of Melanotan II per week
 - Several peptides on wishlist
  

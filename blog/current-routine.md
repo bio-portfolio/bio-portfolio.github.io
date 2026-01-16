@@ -6,8 +6,8 @@ title: Current Routine
 # Routine Notes
 Longevity medicine is experimental and frontier science, consult with a medical professional about your own health goals.
 
-## Longevity Routine, Updated 12-2025
-I have run a longevity routine for ten years, taking it seriously for the past five years. I am Open-Sourcing my protocol by popular demand.
+## Longevity Routine, Updated 2-2026
+
 
 ### Goals
 - Maintain the energy and vitality of my 20s for the next 20 years
@@ -15,19 +15,25 @@ I have run a longevity routine for ten years, taking it seriously for the past f
 - Remain free of chronic disease
 - Maintain a full head of hair, youthful skin, and healthy teeth
 
+### Prescriptions
+- Most are off-label
+
 ### Daily Medication & Supplements
 In the morning, I take these medications from a pill planner.
-- (Rx) Metformin ER 1000mg
-- (Rx) Dapagliflozin 5mg
-- (Rx) Valacyclovir 500mg
-- (Rx) Candesartan 8mg
+- (Rx) Metformin ER 1000mg + Empagliflozin 5mg, for prediabetes prevention, cardiac, and circulatory health
+- (Rx) Emtricitabine + Tenofovir Alafenamide, antiviral preventing infection of Hepatitis and others
+- (Rx) Valacyclovir 500mg, preventative antiviral for reduced neuroinflammation
+- (Rx) Candesartan 8mg, for heart and circulatory health
 - Piracetam 1g
 - Nicotinamide Riboside (NR) 500mg
+- Astaxanthin 12mg
 - N-Acetyl Cysteine (NAC) 600mg
 - Calcium alpha-ketoglutarate (Ca-AKG) 1g
 - Glucosamine 1g
 - Creatine 5g
 - Taurine 1g
+- Glycine 1g
+- Cat's Claw 500mg
 - Multivitamin with ~25 macronutrients
 - Fish Oil ~1g
 
@@ -42,23 +48,24 @@ In the morning, I take these medications from a pill planner.
 
 ### Diet
 - Generally high-protein, low-carb
-- 0 alcohol
+- Pribiotic and fermented foods a few times per week
+- 0 alcohol due to lack of personal enjoyment
 - Generally try to achieve slight calorie deficit
-- Occasionally, I measure my composition with smart scale
+- Occasionally measure composition with a smart scale
 
 ### Sleep
 - ~8 hrs per night
-- 1mg melatonin, taken ~1hr before bed
+- 2mg melatonin, taken ~1hr before bed
 
 ### Environmental
 - Air filter in bedroom
 - Water filter for drinking water
 - 0 smoking
-- Clothes are primarily non-synthetic, anti-microbial fabrics such as merino wool and linen
+- Clothes are primarily anti-microbial fabric blends containing merino wool and linen
 
 ### Skincare
 - Sun protection, PA-rated sunscreen applied every 2 hours + hat when outdoors
-- Serum of 0.1% Retinol (Rx) + moisturizer, applied nightly to face, neck, and hands
+- Mixture of 0.1% Retinol (Rx) + moisturizer, applied nightly to face, neck, and hands
 
 ### Haircare
 - Serum of topical Dutasteride (Rx) + Minoxidil, applied 1-2x weekly to crown and temple
@@ -71,12 +78,12 @@ In the morning, I take these medications from a pill planner.
 - Tongue scraper
 
 ### Peptides
-- Occasional Microdosing of semaglutide
+- Occasional Microdosing of semaglutide, 0.25mg-0.5mg per week
+- Occasionally, 2mg of Melanotan II per week
 - Several peptides on wishlist
  
 ### Therapeutic Wishlist
-- Melanotan 2 peptide or Dersimelagon small molecule, for increased melanin production, skin resilience, and cosmetic appeal
-- Growth Hormone-modifying peptides, for improved physique
+- Dersimelagon small molecule, for increased melanin production, skin resilience, and cosmetic appeal
 - Replace Valacyclovir with Pritelivir when approved, a more effective antiviral medicine
 - Increased sleep efficiency and daytime wakefulness
 - Improvements to nootropic medicine, currently just Piracetam

@@ -11,12 +11,10 @@ Longevity medicine is experimental and frontier science, consult with a medical 
 
 ### Goals
 - Maintain the energy and vitality of my 20s for the next 20 years
-- Achieve a pleasant physique
 - Remain free of chronic disease
-- Maintain a full head of hair, youthful skin, and healthy teeth
 
 ### Prescriptions
-- Most are off-label
+The goal is insurance coverage for medications, using them off-label for helath extension and longevity. Try seeking referrals to specialists in related fields. For example, SGLT2 inhibitors are approved for diabetes, but have demonstrated heart and circulatory health benefits. Instead of a PCP or endocrinologist, talk to a cardiologist or rheumatologist and present the evidence-based studies, with a stated indication of family history or blood metrics.
 
 ### Daily Medication & Supplements
 In the morning, I take these medications from a pill planner.

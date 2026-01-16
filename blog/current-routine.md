@@ -24,8 +24,8 @@ In the morning, I take these medications from a pill planner.
 - (Rx) Emtricitabine + Tenofovir Alafenamide, antiviral preventing infection of Hepatitis and others
 - (Rx) Valacyclovir 500mg, preventative antiviral for reduced neuroinflammation
 - (Rx) Candesartan 8mg, for heart and circulatory health
-- Creatine 5g
 - Multivitamin with ~25 macronutrients
+- Creatine 5g
 - Piracetam 1g
 - Calcium alpha-ketoglutarate (Ca-AKG) 1g
 - Glucosamine 1g

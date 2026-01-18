@@ -25,7 +25,6 @@ The goal is insurance coverage for medications, using a patient's own doctor and
 ### Daily Medication & Supplements
 In the morning, I take these medications from a pill planner.
 - (Rx) Metformin ER 1000mg + Empagliflozin 5mg, for prediabetes prevention, cardiac, and circulatory health
-- (Rx) Emtricitabine + Tenofovir Alafenamide, antiviral preventing infection of Hepatitis and others
 - (Rx) Valacyclovir 500mg, preventative antiviral for reduced neuroinflammation
 - (Rx) Candesartan 8mg, for heart and circulatory health
 - Multivitamin with ~25 macronutrients

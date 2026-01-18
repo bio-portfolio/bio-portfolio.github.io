@@ -66,6 +66,7 @@ In the morning, I take these medications from a pill planner.
 - Water filter for drinking water
 - 0 smoking
 - Clothes are primarily anti-microbial fabric blends containing merino wool and linen
+- (Rx) DoxyPEP 200mg as needed
 
 ### Skincare
 - Sun protection, PA-rated sunscreen applied every 2 hours + hat when outdoors

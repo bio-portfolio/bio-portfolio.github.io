@@ -14,7 +14,9 @@ Longevity medicine is experimental and frontier science, consult with a medical 
 - Remain free of chronic disease
 
 ### Prescriptions
-The goal is insurance coverage for medications, using a patient's own doctor and health system. Many medications are used off-label, especially true for longevity. Try seeking referrals to specialists in related fields. For example, say a patient desires to start an SGLT2 inhibitor. Instead of seeing a PCP or endocrinologist, refer to a cardiologist or rheumatologist. Present the studies of SGLT2 inhibitors for preventing heart failure or helping the circulatory system. The specialist's office can indicate the medication for this use and, if required, assist with a prior authorization. After months of use, your PCP then may be comfortable with managing the medication.
+- Insurance covers medications
+- Frequent off-label use, formulation, or dose (e.g. Topical Dutasteride for male pattern baldness, low-dose Mirtazapine for occasional insomnia, SGLT2 inhibitor + ARB for heart and circulatory health) 
+- Longevity mecications are obtained through public hospitals and in-network doctors
 
 
 
@@ -24,7 +26,7 @@ The goal is insurance coverage for medications, using a patient's own doctor and
 
 ### Daily Medication & Supplements
 In the morning, I take these medications from a pill planner.
-- (Rx) Metformin ER 1000mg + Empagliflozin 5mg, for prediabetes prevention, cardiac, and circulatory health
+- (Rx) Metformin ER 1000mg + Empagliflozin 10mg, for prediabetes prevention, cardiac, and circulatory health
 - (Rx) Valacyclovir 500mg, preventative antiviral for reduced neuroinflammation
 - (Rx) Candesartan 8mg, for heart and circulatory health
 - Multivitamin with ~25 macronutrients
@@ -60,6 +62,7 @@ In the morning, I take these medications from a pill planner.
 ### Sleep
 - ~8 hrs per night
 - 2mg melatonin, taken ~1hr before bed
+- Occasional use of (Rx) Mirtazapine <3mg (Using a fraction of the 7.5mg pill sublingually) as needed for insomnia or sleeping on flights
 
 ### Environmental
 - Air filter in bedroom

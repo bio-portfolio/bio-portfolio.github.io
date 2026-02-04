@@ -5,6 +5,7 @@ description: Blog detailing an Open-Sourced longevity routine, research notes, a
 
 # Theme
 theme: minima
+baseurl: ""
 
 # Minima date format
 minima:

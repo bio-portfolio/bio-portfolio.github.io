@@ -6,7 +6,7 @@ title: Current Routine
 # Routine Notes
 Longevity medicine is experimental and frontier science, consult with a medical professional about your own health goals.
 
-## Longevity Routine, Updated 2-2026
+## Longevity Routine
 
 
 ### Goals
@@ -22,17 +22,20 @@ Longevity medicine is experimental and frontier science, consult with a medical 
 
 
 
-
-
+### Changelog 03-2026
+- Discontinued Piracetam 1g due to increased appetite and switching medications
+- Started (Rx) Memantine 5mg
+- Added Linagliptin in Trijardy XR, DPP-4 inhibitor that boosts naturally-produced GLP-1 and GIP
+- Discontinued occasional Ozempic microdosing
 
 ### Daily Medication & Supplements
 In the morning, I take these medications from a pill planner.
-- (Rx) Metformin ER 1000mg + Empagliflozin 10mg, for prediabetes prevention, cardiac, and circulatory health
+- (Rx) Trijardy XR 10/5/1000 Empagliflozin/Linagliptin/Metformin ER, for prediabetes prevention, appetite control, and cardiovascular health
 - (Rx) Valacyclovir 500mg, preventative antiviral for reduced neuroinflammation
 - (Rx) Candesartan 8mg, for heart and circulatory health
+- (Rx) Memantine 5mg, nootropic
 - Multivitamin with ~25 macronutrients
 - Creatine 5g
-- Piracetam 1g
 - Calcium alpha-ketoglutarate (Ca-AKG) 1g
 - Glucosamine 1g
 - Taurine 1g
@@ -51,6 +54,7 @@ In the morning, I take these medications from a pill planner.
 - 4x30s front plank, left side plank, right side plank
 - 4x8 leg raises
 - 4x8 push-ups
+- EMS machine 10m/day
 - ~10,000 daily steps
 
 ### Diet
@@ -87,12 +91,11 @@ In the morning, I take these medications from a pill planner.
 - Tongue scraper
 
 ### Peptides
-- Occasional microdosing of semaglutide, 0.25mg-0.5mg per week
 - Occasionally, 2mg of Melanotan II per week
 - Several peptides on wishlist
  
 ### Therapeutic Wishlist
 - Dersimelagon small molecule, for increased melanin production, skin resilience, and cosmetic appeal
+- PCSK9 inhibitor to lower LDL, either the twice-weekly injectable or the monthly injectable, then the oral pill
 - Replace Valacyclovir with Pritelivir when approved, a more effective antiviral medicine
 - Increased sleep efficiency and daytime wakefulness
-- Improvements to nootropic medicine, currently just Piracetam

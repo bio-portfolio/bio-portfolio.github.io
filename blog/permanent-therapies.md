@@ -37,7 +37,7 @@ title: Permanent Therapies and Tests
 
 ### Lowering Vocal Frequency
 **Outcome** 20% reduction in resonance from ~155hz to ~125hz 
-- **Treatment course:** 6 months (2026)
+- **Treatment course:** 6 months (2026, ongoing)
 - **Dose:** Monthly injection 15mg RAD140 SARM, 7.5mg injected circothyroid left and right
 - **Future Protocol:** Monitor changes in voice
 

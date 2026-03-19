@@ -33,16 +33,20 @@ title: Permanent Therapies and Tests
 **Outcome:** Permanently reduced set-point bodyfat percentage by ~20%, from 15% to 12%
 - **Treatment course:** 12 months (2023-2024)
 - **Dose:** Weekly injection of microdose quantity between 0.25mg - 1mg
-- **Future Protocol:** Consider restarting for cosmetic reasons or to further lower fat mass.
+- **Future Protocol:** Linagliptin 5mg or another microdose.
+
+### Lowering Vocal Frequency
+**Outcome** 20% reduction in voice from ~155hz to ~125hz 
+- **Treatment course:** 6 months (2026)
+- **Dose:** Monthly injection 15mg RAD140 SARM, 7.5mg injected circothyroid left and right
+- **Future Protocol:** Monitor changes in voice
 
 ### Hyperhidrosis Treatment
 **Outcome** Permanently reduced sweating in treated areas by 50-80%
-- 12% Aluminum chloride liquid deodorant, applied as needed in excessive heat
+- 20% aluminum zirconium tetrachlorohydrex gly deodorant, applied 2-3x/week
 - Botulinum Toxin injections in underarms and sole of feet, 2 courses over 1 year
 
 ### Genetic Tests
-**Privacy Note:** For privacy and security reasons, genetic information is not directly disclosed.
-
 - **Carrier and Rare Genetic Disease Screening:** Evaluated 500+ rare conditions to determine autosomal recessive carrier conditions.
 - **Psychotropic Medicine Genetic Screening:** Evaluates compatibility with hundreds of psychotropic medicines based on metabolization and genetic interactions
 - **Geneaology DNA Test:** Lists regions of the world that your ancestors came from

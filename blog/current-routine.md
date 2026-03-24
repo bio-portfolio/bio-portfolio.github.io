@@ -4,7 +4,7 @@ title: Current Routine
 ---
 
 # Routine Notes
-Longevity medicine is experimental and frontier science, consult with a medical professional about your own health goals.
+Longevity medicine is experimental and frontier science; consult with a medical professional about your own health goals.
 
 ## Longevity Routine
 
@@ -16,7 +16,7 @@ Longevity medicine is experimental and frontier science, consult with a medical 
 ### Prescriptions
 - Insurance covers medications
 - Frequent off-label use, formulation, or dose (e.g. Topical Dutasteride for male pattern baldness, low-dose Mirtazapine for occasional sleeplessness, SGLT2 inhibitor + ARB for heart and circulatory health)
-- Longevity mecications are obtained through public hospitals and in-network doctors
+- Longevity medications are obtained through public hospitals and in-network doctors
 - Despite therapeutic potential and additional studies, generics are usually not re-labeled due to cost-benefit
 
 

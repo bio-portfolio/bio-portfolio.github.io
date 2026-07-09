@@ -24,10 +24,10 @@ Longevity medicine is experimental and frontier science; consult with a medical 
 ### Routine 07-2026
 ### Changelog
 - Started (Rx) Repatha biweekly
-- Added occasional Armodafinil
+- Added occasional (Rx) Armodafinil
 - Updated wishlists
-- Added preventative deworming
-- Increased creatine dose
+- Added preventative deworming after travel in endemic regions
+- Increased creatine intake
 
 
 ### Daily Medication & Supplements

@@ -21,12 +21,14 @@ Longevity medicine is experimental and frontier science; consult with a medical 
 
 
 
+### Routine 07-2026
+### Changelog
+- Started (Rx) Repatha biweekly
+- Added occasional Armodafinil
+- Updated wishlists
+- Added preventative deworming
+- Increased creatine dose
 
-### Changelog 03-2026
-- Discontinued Piracetam 1g due to increased appetite and switching medications
-- Started (Rx) Memantine 5mg
-- Added Linagliptin in Trijardy XR, DPP-4 inhibitor that boosts naturally-produced GLP-1 and GIP
-- Discontinued occasional Ozempic microdosing
 
 ### Daily Medication & Supplements
 In the morning, I take these medications from a pill planner.
@@ -35,7 +37,7 @@ In the morning, I take these medications from a pill planner.
 - (Rx) Candesartan 8mg, for heart and circulatory health
 - (Rx) Memantine 5mg, nootropic
 - Multivitamin with ~25 macronutrients
-- Creatine 5g
+- Creatine 7g
 - Calcium alpha-ketoglutarate (Ca-AKG) 1g
 - Glucosamine 1g
 - Taurine 1g
@@ -67,7 +69,8 @@ In the morning, I take these medications from a pill planner.
 ### Sleep
 - ~8 hrs per night
 - 2mg melatonin, taken ~1hr before bed
-- Occasional use of (Rx) Mirtazapine <3mg (Using a fraction of the 7.5mg pill sublingually) as needed for insomnia or sleeping on flights
+- Occasional use of (Rx) Mirtazapine <3mg (Using a fraction of the 7.5mg pill sublingually) as needed for insomnia
+- Occasional use of (Rx) Armodafinil 150mg for focus
 
 ### Environmental
 - Air filter in bedroom
@@ -75,14 +78,15 @@ In the morning, I take these medications from a pill planner.
 - 0 smoking
 - Clothes are primarily anti-microbial fabric blends containing merino wool and linen
 - (Rx) DoxyPEP 200mg as needed
+- (Rx) Ivermectin + Albendazole deworming dose after visiting endemic global regions
 
 ### Skincare
-- Sun protection, PA-rated sunscreen applied every 2 hours + hat when outdoors
+- Sun protection, PA++++ sunscreen applied every 2 hours + hat when outdoors
 - Mixture of 0.1% Retinol (Rx) + moisturizer, applied nightly to face, neck, and hands
 
 ### Haircare
-- Serum of topical Dutasteride (Rx) + Minoxidil, for male alopecia, applied 1-2x weekly to crown and temple
-- 1% Ketoconazole shampoo
+- Serum of topical Dutasteride (Rx) + Minoxidil, for male alopecia, applied 1-2x weekly to crown and temples
+- Ketoconazole soap bar
 
 ### Teeth
 - Occasional use of whitening strips
@@ -90,12 +94,12 @@ In the morning, I take these medications from a pill planner.
 - Brush teeth with electric toothbrush
 - Tongue scraper
 
-### Peptides
+### Peptides & Monoclonal Antibodies
+- (Rx) Repatha 140mg injection biweekly
 - Occasionally, 2mg of Melanotan II per week
-- Several peptides on wishlist
  
 ### Therapeutic Wishlist
-- Dersimelagon small molecule, for increased melanin production, skin resilience, and cosmetic appeal
-- PCSK9 inhibitor to lower LDL, either the twice-weekly injectable or the monthly injectable, then the oral pill
-- Replace Valacyclovir with Pritelivir when approved, a more effective antiviral medicine
-- Increased sleep efficiency and daytime wakefulness
+- Dersimelagon small molecule, for increased melanin production and skin resilience
+- Several peptides on wishlist
+- Merck's PCSK9 inhibitor pill or Eli Lilly's PCSK9 gene therapy, both in clinical trials
+- Replace Valacyclovir with Pritelivir when approved, a more potent antiviral medicine

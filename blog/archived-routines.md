@@ -9,10 +9,89 @@ This page contains historical daily longevity routines and protocols that have b
 
 ## Archive
 
-Routine 3-2026
-### Discontinued Medicines
-- Sirolimus Rx- cost and accessibility issues
-- Resveratrol supplement
+### Routine 03-2026
+### Changelog
+- Discontinued Piracetam 1g due to increased appetite and switching medications
+- Started (Rx) Memantine 5mg
+- Added Linagliptin in Trijardy XR, DPP-4 inhibitor that boosts naturally-produced GLP-1 and GIP
+- Discontinued occasional Ozempic microdosing
+
+### Daily Medication & Supplements
+In the morning, I take these medications from a pill planner.
+- (Rx) Trijardy XR 10/5/1000 Empagliflozin/Linagliptin/Metformin ER, for prediabetes prevention, appetite control, and cardiovascular health
+- (Rx) Valacyclovir 500mg, preventative antiviral for reduced neuroinflammation
+- (Rx) Candesartan 8mg, for heart and circulatory health
+- (Rx) Memantine 5mg, nootropic
+- Multivitamin with ~25 macronutrients
+- Creatine 5g
+- Calcium alpha-ketoglutarate (Ca-AKG) 1g
+- Glucosamine 1g
+- Taurine 1g
+- Glycine 1g
+- Omega-3 Fish Oil ~1g
+- N-Acetyl Cysteine (NAC) 600mg
+- Nicotinamide Riboside (NR) 500mg
+- Cat's Claw 500mg
+- Astaxanthin 12mg
+- 4-Azaoctamethylenediamine 10mg
+
+### Exercise
+- Daily bodyweight workout
+- 4x20 air crunches
+- 4x20 V-ups
+- 4x30s front plank, left side plank, right side plank
+- 4x8 leg raises
+- 4x8 push-ups
+- EMS machine 10m/day
+- ~10,000 daily steps
+
+### Diet
+- Generally high-protein, low-carb
+- Pribiotic and fermented foods a few times per week
+- 0 alcohol due to lack of personal enjoyment
+- Generally try to achieve slight calorie deficit
+- Occasionally measure composition with a smart scale
+
+### Sleep
+- ~8 hrs per night
+- 2mg melatonin, taken ~1hr before bed
+- Occasional use of (Rx) Mirtazapine <3mg (Using a fraction of the 7.5mg pill sublingually) as needed for insomnia or sleeping on flights
+
+### Environmental
+- Air filter in bedroom
+- Water filter for drinking water
+- 0 smoking
+- Clothes are primarily anti-microbial fabric blends containing merino wool and linen
+- (Rx) DoxyPEP 200mg as needed
+
+### Skincare
+- Sun protection, PA-rated sunscreen applied every 2 hours + hat when outdoors
+- Mixture of 0.1% Retinol (Rx) + moisturizer, applied nightly to face, neck, and hands
+
+### Haircare
+- Serum of topical Dutasteride (Rx) + Minoxidil, for male alopecia, applied 1-2x weekly to crown and temple
+- 1% Ketoconazole shampoo
+
+### Teeth
+- Occasional use of whitening strips
+- Occasional use of mouthwash
+- Brush teeth with electric toothbrush
+- Tongue scraper
+
+### Peptides
+- Occasionally, 2mg of Melanotan II per week
+- Several peptides on wishlist
+ 
+### Therapeutic Wishlist
+- Dersimelagon small molecule, for increased melanin production, skin resilience, and cosmetic appeal
+- PCSK9 inhibitor to lower LDL, either the twice-weekly injectable or the monthly injectable, then the oral pill
+- Replace Valacyclovir with Pritelivir when approved, a more effective antiviral medicine
+- Increased sleep efficiency and daytime wakefulness
+
+### Routine 01-2026
+### Changelog
+- Discontinued Sirolimus Rx- cost and accessibility issues
+- Discontinued Resveratrol supplement
 
 ### Daily Medication & Supplements
 In the morning, I take these medications from a pill planner.
